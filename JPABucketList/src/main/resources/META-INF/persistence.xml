@@ -16,9 +16,9 @@
 		<properties>
 			<property name="javax.persistence.jdbc.url"
 				value="jdbc:mysql://localhost:3306/bucketlistdb?useSSL=false&amp;useLegacyDatetimeCode=false&amp;serverTimezone=US/Mountain" />
-			<property name="javax.persistence.jdbc.user" value="bucketlist" />
+			<property name="javax.persistence.jdbc.user" value="bucket" />
 			<property name="javax.persistence.jdbc.password"
-				value="bucketlist" />
+				value="bucket" />
 			<property name="javax.persistence.jdbc.driver"
 				value="com.mysql.cj.jdbc.Driver" />
 
